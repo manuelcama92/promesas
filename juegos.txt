@@ -1,0 +1,5 @@
+juegos.txt
+mind
+halo 
+plazz
+games bond
