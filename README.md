@@ -1,2 +1,3 @@
 # promesas
-copia  de archivo
+Ejemplo practico de promesas
+
